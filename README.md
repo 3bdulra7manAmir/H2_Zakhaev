@@ -8,7 +8,7 @@
 1. Please Read All Of The Instructions First before You start doing Any Of em.<br>
 2. Download GitHub repository.<br>
 3. Extract the downloaded .zip<br>
-4. Copy all the extracted files and folders to the folder that is called "mods"<br>Which is located in Your MW2CR directory.<br>
+4. Copy all the extracted files and folders to the folder that is called "mods"<br>which is located in Your MW2CR directory.<br>
 5. Launch the Game, Then head to Mods button and load the mod<br>which is called "ZAKH" == "a short for Zakhaev name".<br>
 6. Then launch the NO RUSSIAN mission.<br>
 7. if u want the Easter Eggs copy the "keys.cfg" into "D:\"Your Game Folder Name"\players2\default"<br>After you open the default folder paste the "keys.cfg", it will ask for overwrite allow that Op.
