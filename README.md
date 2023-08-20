@@ -12,7 +12,7 @@
 5. Launch the Game, Then head to Mods button and load the mod<br>which is called "ZAKH" == "a short for Zakhaev name".<br><br>
 6. Then launch the NO RUSSIAN mission.<br><br>
 7. if u want the Easter Eggs copy the "keys.cfg" into "D:\"Your Game Folder Name"\players2\default"<br>After you open the default folder paste the "keys.cfg", it will ask for overwrite allow that Op.<br><br>
-<p>To use the EE you have 3 Main keys which are I, O and P</p>
+<p>- To use the EE you have 3 Main keys which are I, O and P</p>
 <br><br>
 <p>Note: It's recommended to backup your players2 folder before Overwriting it.</p>
 
