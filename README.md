@@ -20,8 +20,6 @@
 
 ![Screenshot (142)](https://github.com/3bdulra7manAmir/h2-Zakhaev/assets/64253660/11fa00e1-6ad3-4ebe-b5fd-be12a9ad930a)
 
-![Screenshot (148)](https://github.com/3bdulra7manAmir/h2-Zakhaev/assets/64253660/2c6dea1d-f651-46e7-83e5-16861484ac08)
-
 ![Screenshot (147)](https://github.com/3bdulra7manAmir/h2-Zakhaev/assets/64253660/7457199a-4da8-4fa0-8e15-c93be9fcfaae)
 
 ![Screenshot (148)](https://github.com/3bdulra7manAmir/h2-Zakhaev/assets/64253660/2acb5436-4b23-4ae7-b0fa-fe10e9767f10)
