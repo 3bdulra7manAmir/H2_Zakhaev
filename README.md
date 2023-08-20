@@ -5,7 +5,7 @@
 <p>Normal h2-mod.exe version may work well, but no promises.</p>
 
 <h2>Installation method</h2>
-1. Please Read All Of The Instructions First before You start doing Any Of em.
+1. Please Read All Of The Instructions First before You start doing Any Of em.<br>
 2. Download GitHub repository.<br>
 3. Extract the downloaded .zip<br>
 4. Copy all the extracted files and folders to the folder that is called "mods" Which is located in Your MW2CR directory.<br>
